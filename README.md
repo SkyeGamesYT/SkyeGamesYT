@@ -6,4 +6,6 @@ Some things about me:
 
 I love making bookmarklets, and scripting!
 
+Artwork: https://github.com/SkyeL0L/artwork
+
 Join my discord! https://discord.gg/Ct2vdVU5H3
